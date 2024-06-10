@@ -1,4 +1,4 @@
-// Pregunta 2:
+// Pregunta 2: aa
 //Escribe un programa que use un bucle WHILE para imprimir los números del 1 al 10.
 
 
